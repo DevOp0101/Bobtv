@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bobtv/static/css/main.f73bf3c4.css",
-    "main.js": "/Bobtv/static/js/main.84309502.js",
+    "main.js": "/Bobtv/static/js/main.d5a5e954.js",
     "static/js/755.a54bbd3a.chunk.js": "/Bobtv/static/js/755.a54bbd3a.chunk.js",
     "static/js/956.f6b8dae6.chunk.js": "/Bobtv/static/js/956.f6b8dae6.chunk.js",
     "static/js/707.4a034843.chunk.js": "/Bobtv/static/js/707.4a034843.chunk.js",
@@ -55,11 +55,11 @@
     "static/media/Cancelbutton.png": "/Bobtv/static/media/Cancelbutton.80922a450475bb5294c0.png",
     "index.html": "/Bobtv/index.html",
     "main.f73bf3c4.css.map": "/Bobtv/static/css/main.f73bf3c4.css.map",
-    "main.84309502.js.map": "/Bobtv/static/js/main.84309502.js.map",
+    "main.d5a5e954.js.map": "/Bobtv/static/js/main.d5a5e954.js.map",
     "651.74bee06a.chunk.js.map": "/Bobtv/static/js/651.74bee06a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f73bf3c4.css",
-    "static/js/main.84309502.js"
+    "static/js/main.d5a5e954.js"
   ]
 }
