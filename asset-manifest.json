@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Bobtv/static/css/main.c62d1a60.css",
+    "main.css": "/Bobtv/static/css/main.3254f126.css",
     "main.js": "/Bobtv/static/js/main.3d46eaba.js",
     "static/js/755.a54bbd3a.chunk.js": "/Bobtv/static/js/755.a54bbd3a.chunk.js",
     "static/js/956.f6b8dae6.chunk.js": "/Bobtv/static/js/956.f6b8dae6.chunk.js",
@@ -49,18 +49,18 @@
     "static/media/Logo.png": "/Bobtv/static/media/Logo.67b303b75377dd04fbac.png",
     "static/media/Createuserbutton.png": "/Bobtv/static/media/Createuserbutton.5dcfc5a22256c9805fcc.png",
     "static/media/Videooverlaybottom.png": "/Bobtv/static/media/Videooverlaybottom.42d31343fcb46ff5b2fc.png",
+    "static/media/Videoframeclick.png": "/Bobtv/static/media/Videoframeclick.8e4a166cbb851319b059.png",
     "static/media/Hexagon.jpg": "/Bobtv/static/media/Hexagon.7e71a593ccaf7efc81fa.jpg",
     "static/media/Confirmbutton.png": "/Bobtv/static/media/Confirmbutton.1d96b1320972425df695.png",
     "static/media/Hexagondark.jpg": "/Bobtv/static/media/Hexagondark.18c7ebc9707e18779224.jpg",
     "static/media/Cancelbutton.png": "/Bobtv/static/media/Cancelbutton.80922a450475bb5294c0.png",
-    "static/media/Videoframeclick.png": "/Bobtv/static/media/Videoframeclick.228ad5ea07810b9ae9bb.png",
     "index.html": "/Bobtv/index.html",
-    "main.c62d1a60.css.map": "/Bobtv/static/css/main.c62d1a60.css.map",
+    "main.3254f126.css.map": "/Bobtv/static/css/main.3254f126.css.map",
     "main.3d46eaba.js.map": "/Bobtv/static/js/main.3d46eaba.js.map",
     "651.74bee06a.chunk.js.map": "/Bobtv/static/js/651.74bee06a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c62d1a60.css",
+    "static/css/main.3254f126.css",
     "static/js/main.3d46eaba.js"
   ]
 }
